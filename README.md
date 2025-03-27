@@ -2,7 +2,7 @@
 
 I dont contibute too often on github so appologizes ahead of time. 
 
-I have a lot of my repositories are privte.
+I have a lot of my repositories on private.
 
 My best languages are Java, Python and C#.
 

@@ -8,10 +8,10 @@ My best languages are Java, Python and C#.
 
 
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![Thundertides's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thundertides&show_icons=true&theme=radical)
 
-## 📊 Top Languages
+## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thundertides&layout=compact&theme=radical)
 
 
